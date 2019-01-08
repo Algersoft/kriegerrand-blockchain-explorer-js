@@ -10,12 +10,6 @@ Block explorer for Kriegerrand CryptoNote based cryptocurrency.
 2) Just upload to your website and change 'api' variable in config.js to point to your daemon.
 
 
-### Development
-Devs:
-    @devopsralf
-
-Donate: [TRTL] ZkRiEGER9vKeE3thfqS5tY2hZuXGNxZSfX1xMd85dM5XZhezXs4z3BeV3Vhe8b5Cm6XqzxEti4jnaVSbYWphQCaL97kmTKrQidb8Tf
-
 ### Note
-
+This is a fork of TurtleCoin Explorer turtlecoin/turtle-explorer-js
 A lot of this code is from the great Karbovanets/Karbowanec-Blockchain-Explorer
